@@ -57,6 +57,13 @@
 - **21:9 电影画幅**
 - 想换就说人话：「换成雪地」「要下雨的」「白天的」
 
+## 也能拍其他明确主体
+
+这套规则以汽车为主。你也可以上传摩托、宠物、人物或其他明确主体，它会保留同样的三帧结构，并根据主体自动调整身份特征、动作、材质和构图。
+
+> 〔上传摩托照片〕复古绅士，行驶在伦敦，拍
+> 〔上传两只狗的照片〕开心地追逐，拍
+
 ---
 
 ## 一句实话
@@ -67,7 +74,7 @@
 
 ## Free to use
 
-Turn a phone photo of your car into three cinematic 21:9 frames. Paste [`SKILL.md`](SKILL.md) into any chat AI, send a photo of your car, and say "拍". It reads only the car's identity from your photo and rebuilds the light, the place and the framing from scratch.
+Turn a phone photo of your car into three cinematic 21:9 frames. Paste [`SKILL.md`](SKILL.md) into any chat AI, send a photo of your car, and say "拍". It reads only the car's identity from your photo and rebuilds the light, the place and the framing from scratch. Cars remain the primary use; a clearly provided motorcycle, pet, person or object can use the same three-frame structure with subject-specific adaptation.
 
 Free to use and share.
 
